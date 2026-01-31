@@ -1,2 +1,2 @@
 # HistoriaDesarrolloWeb
-Vaca Peace
+Reflexión Cuando el esfuerzo deja de ser valorado y el poder se usa para beneficio de unos pocos, el progreso se detiene y la comunidad se debilita. La verdadera justicia no consiste en tratar a todos igual sin importar su aporte, sino en reconocer el trabajo, la responsabilidad y la cooperación. Una sociedad solo puede prosperar cuando existe confianza, respeto y un equilibrio entre igualdad y mérito.
