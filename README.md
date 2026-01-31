@@ -1,3 +1,10 @@
 # HistoriaDesarrolloWeb
 DESENLACE
-Con el tiempo, incluso las ratas comenzaron a sufrir las consecuencias de su propio sistema. La comida escaseaba para todos, y las promesas nunca se cumplieron. Los animales, cansados del miedo y la miseria, recordaron cómo antes su trabajo tenía valor y la granja prosperaba. Poco a poco recuperaron la confianza entre ellos y decidieron unirse. Al final, comprendieron que una granja solo puede salir adelante cuando el esfuerzo es reconocido, hay responsabilidad y el poder no se usa para someter, sino para servir al bien común. Desde entonces, aprendieron que la verdadera justicia no está en que todos reciban lo mismo, sino en que cada uno reciba según su trabajo y aporte.
+Con el tiempo, incluso las ratas comenzaron a sufrir las consecuencias de su propio 
+sistema. La comida escaseaba para todos, y las promesas nunca se cumplieron. Los 
+animales, cansados del miedo y la miseria, recordaron cómo antes su trabajo tenía 
+valor y la granja prosperaba. Poco a poco recuperaron la confianza entre ellos y 
+decidieron unirse. Al final, comprendieron que una granja solo puede salir adelante
+cuando el esfuerzo es reconocido, hay responsabilidad y el poder no se usa para someter,
+sino para servir al bien común. Desde entonces, aprendieron que la verdadera justicia
+no está en que todos reciban lo mismo, sino en que cada uno reciba según su trabajo y aporte.
